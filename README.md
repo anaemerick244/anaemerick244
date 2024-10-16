@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🗽
 
-<!--
-**anaemerick244/anaemerick244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Emerick
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contado comigo em : 📫
+
+  00001113610700sp@al.educacao.sp.gov.br
+
+  anaemerick244
+  
+![](https://tenor.com/bVJB4.gif)
+  
